@@ -41,14 +41,14 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A galactic thief tries life on the side of the law.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;James “Slippery Jim” diGriz is a criminal in a galaxy where crime has almost been eradicated. In his own words, he’s a rat in the wainscoting of society, and now that society is all ferroconcrete and stainless steel only a stainless steel rat can find the gaps. Despite a nose for the hustle and a healthily paranoid survival instinct Jim’s luck has to run out at some point, but when it does it isn’t a prison cell he is offered, but a job with the Special Corps.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Stainless Steel Rat&lt;/i&gt;—a fix-up novel based on two earlier short stories for &lt;i&gt;Astounding&lt;/i&gt; magazine—was the first in a long series of books by &lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; to star the anti-hero. It is never less than a breathless ride, with twists and turns at every corner. As well as the twelve novels and additional short stories, the Stainless Steel Rat has appeared in numerous comics and games over the years, and has become Harrison’s most enduring character.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70622</dc:source>
 		<dc:source>https://archive.org/details/stainlesssteelra0000harr</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Stainless_Steel_Rat</meta>
