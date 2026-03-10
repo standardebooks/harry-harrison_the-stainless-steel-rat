@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="chapter-12.xhtml">
 		<ignore code="t-017">
+			<line>16</line>
+			<line>18</line>
 			<reason>Title of a magazine.</reason>
 		</ignore>
 	</file>
